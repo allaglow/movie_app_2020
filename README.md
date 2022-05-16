@@ -1,3 +1,3 @@
-# Movie Qpp 2020
+# Movie App 2020
 
 React JS Fudamentals Course 2020
